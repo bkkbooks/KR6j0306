@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0306/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說不空羂索陀羅尼儀軌經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1098.xml
+    old_id: T20n1098
+hash: sha256:949f12a28558b346f516aec5e6f01e62196446072aedb83c5c89234ae9af3739
