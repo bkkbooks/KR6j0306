@@ -37,7 +37,7 @@ assets:
   - {seq: 1, filename: KR6j0306_001.yaml, hash: 'sha256:89ac629a75760130f8abdc390179a0ed7543a51987c667f35d79784023d40daa'}
   - {seq: 2, filename: KR6j0306_002.yaml, hash: 'sha256:2cec50962a02763124bad2f4e949cf02e2c10aa53e6e0efe330913255c4bda83'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0306_000.markers.yaml, hash: 'sha256:66efc5d35493a87399dcb34c89ca2bd63636dccba4f8d4d33579438e0a5367d1'}
+  - {seq: 0, role: markers, filename: assets/KR6j0306_000.markers.yaml, hash: 'sha256:0bd8d5e297f29c9af578a5e7b1bc6dd44ccaa65a5c283b72a99407272677784a'}
   - {seq: 1, role: markers, filename: assets/KR6j0306_001.markers.yaml, hash: 'sha256:d9ca5e86e307f02d83d3c3f71cfcb3b80e652f0a0d4e8734cb1b41da9038af58'}
   - {seq: 2, role: markers, filename: assets/KR6j0306_002.markers.yaml, hash: 'sha256:bab559bca3e2c3f8fc8eb7c3ad9755965d1d1ccb74d5dfd4ac5b733085d52ff9'}
 table_of_contents:
@@ -85,7 +85,7 @@ table_of_contents:
   label: 3 祕密成就真言品
   type: mulu
   level: 1
-hash: sha256:6c3e92ef0bbca7212c98d0729833599be0ee29cf881e97ae53ea5331c5211e4c
+hash: sha256:300159a93f474691c9f85417e3fc8478f4b90fcbd65c79aedbcb4ce8604db313
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
